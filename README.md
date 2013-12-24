@@ -1,5 +1,5 @@
 Facebook Programming Challanges (PHP Approach)
-==============================================
+============================================
 
 URL: https://facebook.interviewstreet.com/recruit/challenges
 
