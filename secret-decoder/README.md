@@ -1,7 +1,11 @@
 Facebook Secret Decoder
 =======================
 
-This is
+This method may not be the best way to resolve this problem but it's a good starting point and it decodes every secret sentance you give it.
+
+I will refactor this code in the near future but in the meantime if you have any question please email me.
+
+The file stdin2.txt contains the dictionary / secret from the example concatenated with the dictionary / secret that you actually receive on the real test.
 
 =======================
 Your task is to decode messages that were encoded with substitution ciphers. In a substitution cipher, all occurrences of a character are replaced by a different character. For example, in a cipher that replaces "a" with "d" and "b" with "e", the message "abb" is encoded as "dee".
